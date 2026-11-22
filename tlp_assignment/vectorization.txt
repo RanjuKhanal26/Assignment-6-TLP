@@ -1,0 +1,9 @@
+src/daxpy_mt.c:29:33: optimized: loop vectorized using 16 byte vectors
+src/daxpy_mt.c:29:33: optimized:  loop versioned for vectorization because of possible aliasing
+src/daxpy_mt.c:113:26: optimized: loop vectorized using 16 byte vectors
+src/daxpy_mt.c:29:33: optimized: loop vectorized using 16 byte vectors
+src/daxpy_mt.c:29:33: optimized:  loop versioned for vectorization because of possible aliasing
+src/daxpy_mt.c:113:26: optimized: loop vectorized using 16 byte vectors
+src/daxpy_mt.c:29:33: optimized: loop vectorized using 16 byte vectors
+src/daxpy_mt.c:29:33: optimized:  loop versioned for vectorization because of possible aliasing
+src/daxpy_mt.c:113:26: optimized: loop vectorized using 16 byte vectors
